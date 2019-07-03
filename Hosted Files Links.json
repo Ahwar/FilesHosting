@@ -1,7 +1,7 @@
 {
     "list": [{
         "name": "Cat_Dog_kaggle_data.zip",
-        "detail": "",
+        "detail": "Dataset by kaggle containing images to train a model to classify Dog and Cats Images \n 7100 images of dogs and cats by kaggle for training purpose Cat_Dog_data/Cat_Dog_data/train \n 1250 images of dogs and cats each by kaggle for testing purpose  Cat_Dog_data/Cat_Dog_data/test ",
         "link": "https://www.filehosting.org/file/details/809266/Cat_Dog_kaggle_data.zip",
         "deleteLink": "https://www.fh.org/file/delete/809266/FwHYqZmEuBNmXTp2"
     }]
